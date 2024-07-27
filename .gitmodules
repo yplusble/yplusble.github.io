@@ -1,0 +1,3 @@
+[submodule "yplus.github.io"]
+	path = yplus.github.io
+	url = git@github.com:yplusble/yplus.github.io.git
