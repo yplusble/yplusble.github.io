@@ -554,13 +554,7 @@ footer .copyright{
     margin-bottom:0
 }
 footer .copyright a{
-    color:#337ab7;
-    visibility: hidden;
-    opacity: 0
-}
-footer .copyright p{
-    visibility: hidden;
-    opacity: 0
+    color:#337ab7
 }
 footer .copyright a:hover,footer .copyright a:focus{
     color:#0085a1
