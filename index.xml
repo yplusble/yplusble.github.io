@@ -6,15 +6,7 @@
     <description>Recent content on YplusBle Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://yplus.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Clean White Theme for Hugo</title>
-      <link>https://yplus.github.io/post/readme/</link>
-      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://yplus.github.io/post/readme/</guid>
-      <description>Clean White Theme for Hugo CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live demo site using this theme. It is based on huxblog Jekyll Theme and Clean Blog Jekyll Theme. These two upstream projects have done awesome jobs to create a blog theme, what I&amp;rsquo;m doing here is porting it to Hugo, of which I like the simplicity and the much faster</description>
-    </item>
     <item>
       <title></title>
       <link>https://yplus.github.io/about/</link>
@@ -35,6 +27,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://yplus.github.io/search/placeholder/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>8月计划？</title>
+      <link>https://yplus.github.io/2024/08/01/plan_August/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yplus.github.io/2024/08/01/plan_August/</guid>
+      <description>8月计划： 8月是忙碌而又清闲，是炎热而又自在的一个月。 1.健身计划：无分化训练（胸，背，腿，肩，臂） 从8月开始健身，虽然自己是一个健身小白，</description>
     </item>
     <item>
       <title>Posts Archive</title>
