@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YplusBle Blog</title>
+    <link>https://yplusble.github.io/</link>
+    <description>Recent content on YplusBle Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://yplusble.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我想送给10年后的一些话</title>
+      <link>https://yplusble.github.io/2024/08/10/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://yplusble.github.io/2024/08/10/</guid>
+      <description>我想送给10年后的一些话 回顾十年前： ​ 十年前，17岁，高二，那时候，自己没有目标，不知道为什么学习，不知道以后要学什么专业，不知道要去哪上大</description>
+    </item>
+    <item>
+      <title>8月计划</title>
+      <link>https://yplusble.github.io/2024/08/02/plan_August/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://yplusble.github.io/2024/08/02/plan_August/</guid>
+      <description>8月计划 8月是忙碌而又清闲，是炎热而又自在的一个月。 1.健身计划：无分化训练（胸，背，腿，肩，臂） 从8月开始健身，虽然自己是一个健身小白，但</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://yplusble.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yplusble.github.io/about/</guid>
+      <description>About Me Bo Yan(YplusBle) is a teacher</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://yplusble.github.io/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yplusble.github.io/notes/</guid>
+      <description>Go 语言学习笔记 Envoy 学习笔记</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://yplusble.github.io/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yplusble.github.io/search/placeholder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Posts Archive</title>
+      <link>https://yplusble.github.io/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://yplusble.github.io/archive/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
