@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on YplusBle Blog</title>
+    <link>https://yplusble.github.io/tags/</link>
+    <description>Recent content in Tags on YplusBle Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://yplusble.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflection</title>
+      <link>https://yplusble.github.io/tags/reflection/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://yplusble.github.io/tags/reflection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monthly_plan</title>
+      <link>https://yplusble.github.io/tags/monthly_plan/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://yplusble.github.io/tags/monthly_plan/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
