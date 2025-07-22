@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YplusBle Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on YplusBle Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025年5月6日更新的故事</title>
+      <link>http://localhost:1313/2024/05/06/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/05/06/</guid>
+      <description>2025年5月6日长达9个月未更新 在过去的9个月里，你一直处于忙碌的状态，既有明确的目标和行动，也有一些迷茫的时刻。以下是对这段经历的简单总</description>
+    </item>
+    <item>
+      <title>我想送给10年后的一些话</title>
+      <link>http://localhost:1313/2024/08/10/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/08/10/</guid>
+      <description>我想送给10年后的一些话 回顾十年前： ​ 十年前，17岁，高二，那时候，自己没有目标，不知道为什么学习，不知道以后要学什么专业，不知道要去哪上大</description>
+    </item>
+    <item>
+      <title>8月计划</title>
+      <link>http://localhost:1313/2024/08/02/plan_August/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/08/02/plan_August/</guid>
+      <description>8月计划 8月是忙碌而又清闲，是炎热而又自在的一个月。 1.健身计划：无分化训练（胸，背，腿，肩，臂） 从8月开始健身，虽然自己是一个健身小白，但</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>About Me Bo Yan(YplusBle) is a teacher</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/</guid>
+      <description>Go 语言学习笔记 Envoy 学习笔记</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/search/placeholder/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Posts Archive</title>
+      <link>http://localhost:1313/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

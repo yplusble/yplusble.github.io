@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reflection on YplusBle Blog</title>
+    <link>http://localhost:1313/tags/reflection/</link>
+    <description>Recent content in Reflection on YplusBle Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/reflection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025年5月6日更新的故事</title>
+      <link>http://localhost:1313/2024/05/06/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/05/06/</guid>
+      <description>2025年5月6日长达9个月未更新 在过去的9个月里，你一直处于忙碌的状态，既有明确的目标和行动，也有一些迷茫的时刻。以下是对这段经历的简单总</description>
+    </item>
+    <item>
+      <title>我想送给10年后的一些话</title>
+      <link>http://localhost:1313/2024/08/10/</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2024/08/10/</guid>
+      <description>我想送给10年后的一些话 回顾十年前： ​ 十年前，17岁，高二，那时候，自己没有目标，不知道为什么学习，不知道以后要学什么专业，不知道要去哪上大</description>
+    </item>
+  </channel>
+</rss>
